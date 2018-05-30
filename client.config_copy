@@ -1,0 +1,6 @@
+[client]
+user_id=kwschulz
+job_id=kwschulz-1
+email_to=joshua.patrick.gardner@gmail.com
+docker_url=s3://morf-submit-2-kwschulz/kyle_submit_try_1.tar
+controller_url=s3://morf-public/mwe/controller.py
